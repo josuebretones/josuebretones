@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Josué
 
 Director de IT en Promopicking, empresa especialista en logística y marketing ommnicanal.
