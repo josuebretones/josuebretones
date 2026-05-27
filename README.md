@@ -1,41 +1,126 @@
 # 👋 Hola, soy Josué
 
-Director de IT en Promopicking, empresa especialista en logística y marketing ommnicanal.
+CTO y Product Engineer especializado en IA aplicada, automatización y desarrollo de sistemas backend escalables.
 
-Full-stack developer con fuerte enfoque en **backend y APIs REST**.  
-Me apasiona construir sistemas escalables y mantenibles, priorizando **agilidad, productividad y buenas prácticas**.
+Actualmente lidero iniciativas de IT e IA en Promopicking, empresa especializada en logística y marketing omnicanal, donde trabajo integrando inteligencia artificial en productos reales, operaciones y flujos de trabajo internos.
 
-Trabajo principalmente con **Laravel / PHP**, bases de datos relacionales (**MySQL / MariaDB**) y frameworks modernos de frontend como **Livewire y Vue**, integrando **Tailwind CSS** para interfaces limpias y funcionales.  
-También uso **Python** para automatización y aplicaciones de IA, siempre con enfoque en soluciones reales.
+Mi trayectoria viene del desarrollo backend y la construcción de producto, con un enfoque muy orientado a crear soluciones útiles, mantenibles y conectadas con necesidades reales de negocio.
 
 ---
 
-## 🧠 Mis fortalezas y enfoque
+## 🚀 En qué trabajo
 
-- **Backend & APIs**: diseño y desarrollo de **APIs REST robustas**, autenticación, colas, jobs y testing.  
-- **Frontend moderno**: Livewire, Vue y Tailwind para interfaces dinámicas y productivas.  
-- **Infraestructura y DevOps**: Docker, GitHub Actions y entornos reproducibles.  
-- **Automatización e IA aplicada**: procesamiento de datos, NLP y soluciones basadas en IA.  
-- **Metodologías ágiles**: me enfoco en iteraciones rápidas y entrega de valor constante.
+Diseño y desarrollo sistemas que combinan:
+- IA aplicada
+- automatización
+- arquitectura backend
+- workflows inteligentes
+- visión de producto
+
+Gran parte de mi trabajo se centra en:
+- productos impulsados por IA
+- agentes y asistentes inteligentes
+- workflows automatizados
+- sistemas conversacionales
+- pipelines RAG
+- automatización de operaciones
+- integraciones IA para entornos reales
 
 ---
 
-## 💻 Ecosistema y herramientas
+## 🧠 IA y automatización
 
-- **Sistema operativo:** macOS, optimizado para desarrollo web y productividad.  
-- **IDE & Terminal:** VS Code, JetBrains, zsh/fish + tmux.  
-- **Control de versiones:** Git + GitHub (con workflows y CI/CD).  
-- **Bases de datos:** MySQL, MariaDB, Postgree.  
-- **Containerización:** Docker y Docker Compose.  
-- **Testing:** PHPUnit / Pest para backend, tests funcionales y unitarios.  
+Trabajo activamente con:
+- agentes y workflows multi-step
+- Retrieval-Augmented Generation (RAG)
+- MCP integrations
+- OpenAI y Claude APIs
+- prompt engineering
+- testing y evaluación de workflows IA
+- modelos locales con Ollama y LM Studio
+- automatización de procesos con IA
+- desarrollo guiado por especificaciones con OpenSpec
+
+También me interesa especialmente:
+- arquitectura de productos IA
+- orquestación de agentes
+- workflows human-in-the-loop
+- sistemas IA orientados a producto
+- calidad y fiabilidad en aplicaciones IA
 
 ---
 
-## ⚡ Estilo de trabajo
+## 💻 Backend e ingeniería de producto
 
-- Siempre busco **agilidad y productividad**, combinando buenas prácticas con rapidez de entrega.  
-- Me interesa **resolver problemas reales**, integrando tecnologías modernas sin sacrificar calidad.  
-- Prefiero **estructuras limpias y código mantenible** que escalen con el proyecto.  
+Experiencia sólida construyendo sistemas backend, APIs y plataformas orientadas a escalabilidad y productividad.
+
+### Backend
+- Laravel / PHP
+- Python
+- APIs REST
+- colas y jobs asíncronos
+- autenticación y autorización
+- automatización de procesos
+
+### Frontend
+- Livewire
+- Vue.js
+- Tailwind CSS
+
+### Infraestructura
+- Docker
+- Docker Compose
+- GitHub Actions
+- CI/CD workflows
+
+### Bases de datos
+- MySQL
+- MariaDB
+- PostgreSQL
+
+### Testing
+- PHPUnit
+- Pest
+- testing funcional
+- testing de workflows IA
+
+---
+
+## ⚡ Filosofía de trabajo
+
+Me gusta construir sistemas IA útiles, integrados en operaciones reales y pensados para mantenerse a largo plazo.
+
+Valoro especialmente:
+- arquitecturas limpias
+- rapidez de iteración
+- productividad
+- mantenibilidad
+- entrega continua
+- integración entre negocio y tecnología
+
+Creo que la IA aporta más valor cuando forma parte del producto y de los procesos reales, no solo como una demo aislada.
+
+---
+
+## 📌 Actualmente enfocado en
+
+- experiencias de cliente impulsadas por IA
+- sistemas conversacionales
+- automatización inteligente
+- agentes IA para operaciones
+- IA aplicada a logística y omnicanalidad
+- workflows y herramientas internas
+- desarrollo guiado por especificaciones
+
+---
+
+## 🛠️ Ecosistema y herramientas
+
+- macOS ❤️ / Windows
+- JetBrains / VS Code
+- Git y GitHub
+- entornos Dockerizados
+- workflows orientados a productividad
 
 ---
 
